@@ -1,0 +1,82 @@
+# =========================
+# Python & Streamlit Project
+# =========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+.conda/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and model files (optional to include if large)
+data/
+datasets/
+*.csv
+*.xlsx
+*.json
+*.zip
+*.sav
+*.pkl
+*.joblib
+
+# Streamlit specific
+.streamlit/
+
+# Logs and cache
+*.log
+logs/
+*.out
+*.err
+cache/
+__cache__/
+.pytest_cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build / Distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swm
+
+# Environment / Secrets
+.env
+.env.local
+.env.production
+.env.development
+secrets.json
+
+# OS / Misc
+*.tar
+*.gz
+*.rar
+*.7z
+
+# =========================
+# End of File
+# =========================

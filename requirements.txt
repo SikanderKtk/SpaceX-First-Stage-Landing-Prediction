@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+folium
+joblib
+requests
+json5
+dash
+jupyter-dash
