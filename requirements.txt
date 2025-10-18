@@ -11,3 +11,4 @@ requests
 json5
 dash
 jupyter-dash
+dash-bootstrap-components
